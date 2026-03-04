@@ -17,7 +17,7 @@ spec:
       containers:
         - name: hey-container
           image: mokshith369/hey-app:latest
-          imagePullPolicy: Never
+          imagePullPolicy: Always
           ports:
             - containerPort: 55001
           resources:
