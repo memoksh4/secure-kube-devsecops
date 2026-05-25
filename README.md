@@ -101,7 +101,8 @@ Prometheus collects Kubernetes metrics and Grafana visualizes them through dashb
 
 
 ## Author
-Mokshith S  
+Mokshith S
+memoksh.4@gmail.com
 
 ## Disclaimer
 This project is created for educational and demonstration purposes to showcase DevOps practices including CI/CD, containerization, Kubernetes deployment, and monitoring.
